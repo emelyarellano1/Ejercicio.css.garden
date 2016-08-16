@@ -1,0 +1,33 @@
+body {
+
+	font-family:helvetica; 
+	background-color:#ECF0F8;
+	background:url(img/Wordpress-Background-Blue-Light.jpg); 
+    margin-left:300px; 
+    margin-right:300px; 
+}
+.page-wrapper{
+	margin-left:1em; 
+	margin-right:1em;
+	background-color:rgba(214, 225, 248, .6);
+}
+h1 {
+	text-align: center;
+	color:#FFFFFF;
+	font-size:60px
+	text-decoration:underline; color:#FFFFFF;
+}
+h2 {
+	text-align: center;
+	color:#1E71B9;
+	text-decoration:underline; color:#FFFFFF;
+}
+h3{
+	text-align: left;
+    color:#FFFFFF;
+    text-decoration:underline; color:#FFFFFF;	
+}
+
+ul li { 
+	text-align:left ;
+}
